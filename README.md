@@ -9,7 +9,7 @@ Engineering autonomous multi-modal neural engines, deterministic financial audit
 
 ### 🌐 Official Ecosystem & Command Links
 - 🚀 **Primary Portal:** [salmanjackson.vercel.app](https://salmanjackson.vercel.app)
-- 🧠 **VantYx AI Core (v22.0):** [vantyx-ai.vercel.app](https://vantyx-ai.vercel.app)
+- 🧠 **VantYx AI Core (v23.0):** [vantyxcore.vercel.app](https://vantyxcore.vercel.app)
 - 🔍 **CRE Forensic Suite:** [detective-vantyx.vercel.app](https://detective-vantyx.vercel.app)
 - 💼 **Hire on Fiverr:** [fiverr.com/salmanjackson](https://www.fiverr.com/salmanjackson)
 - 👔 **Executive Network:** [linkedin.com/in/salmanjackson](https://www.linkedin.com/in/salmanjackson)
